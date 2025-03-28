@@ -1,1 +1,12 @@
-{"installed":{"client_id":"543929454392-cqc7sukrppne6qtgs0ijj7humlgrgpmn.apps.googleusercontent.com","project_id":"magicrs-455105","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"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","redirect_uris":["http://localhost"]}}
+{
+    "files": ["https://url1", "sdmc:/url2", "http://url3"],
+    "directories": ["https://url1", "sdmc:/url2", "http://url3"],
+    "success": "Bienvenidos a MagicSLshop
+Uso exclusivo de clientes Magic Repair Shop"
+}
+{
+    "googleApiKey": "AIzaSyB9EWfGhDuYv2J1mbYB4oIix32wOpnTwgk"
+}
+{
+    "version": 18.00
+}
