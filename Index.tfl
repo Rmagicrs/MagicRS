@@ -1,6 +1,6 @@
 {
     "files": ["https://url1", "sdmc:/url2", "http://url3"],
-    "directories": ["https://url1", "sdmc:/url2", "http://url3"],
+    "directories": ["https://drive.google.com/drive/folders/19F4abnWxqq1QI_tv3pZfHrlBPY23S2pv", "sdmc:/url2", "http://url3"],
     "success": "Bienvenidos a MagicSLshop
 Uso exclusivo de clientes Magic Repair Shop"
 }
